@@ -37,5 +37,5 @@ Both plots are interactive. On the shape plot you can hover over a band and ever
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/YOUR-USERNAME/YOUR-USERNAME.github.io/blob/main/python_notebooks/ufo_altair_hw.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/AirlessEA/AirlessEA.github.io/blob/main/python_notebooks/ufo_altair_hw.ipynb" text="The Analysis" %}
 </div>
